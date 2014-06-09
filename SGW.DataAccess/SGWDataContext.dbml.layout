@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 19.75, 26.625" name="DataClasses1">
+  <DataContextMoniker Name="/SGWDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2f7dff94-bbe6-4235-b6bf-27a405a9d917" absoluteBounds="14.75, 21.25, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Access" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57df4d36-02df-457e-a090-08505966cf04" absoluteBounds="14.765, 21.71, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="41bd20b2-5924-4411-9267-4bf4af9df103" absoluteBounds="3.5, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkgroupMember" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7698d7b5-2002-4cc5-8be0-185f8497e96e" absoluteBounds="3.515, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1de41612-5f5c-4792-aac8-c3864172e7e6" absoluteBounds="17.5, 14.125, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Attachment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="077c0034-5831-4593-9bd3-2095c27d8660" absoluteBounds="17.515, 14.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a2791212-6696-4f1e-99b7-61742db730f4" absoluteBounds="3.5, 19.375, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Condition" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a766a726-c962-4b86-967e-abcf479196b6" absoluteBounds="3.515, 19.835, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d73464f5-861a-481e-99e6-c8e51c3a205a" absoluteBounds="6.25, 23.5, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/SGWDataContext/SGW_ConditionDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e087b51-a783-4373-9043-5f21404f96e9" absoluteBounds="6.265, 23.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2bdc4326-065a-4317-a2f6-80b41f762e13" absoluteBounds="0.75, 15.5, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Entity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b04051b3-f92d-4bd0-9886-c536737fe7dc" absoluteBounds="0.765, 15.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="35a39c15-5056-4d8f-960c-c0d696d203af" absoluteBounds="3.5, 12.75, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/SGWDataContext/SGW_EntityField" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd424014-969f-49cf-a7ec-503a53651245" absoluteBounds="3.515, 13.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b8978102-789a-4f62-9b6b-67896a24baad" absoluteBounds="3.5, 15.25, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/SGWDataContext/SGW_EntityInstance" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7dfb9b6-5813-4c13-945a-564715e34ff2" absoluteBounds="3.515, 15.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31eaf402-766b-4205-86c5-cf2270fc20b1" absoluteBounds="3.5, 10.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_EntityStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c17a32b1-fd8e-4f8b-8d01-c3403bff854e" absoluteBounds="3.515, 10.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0a9ff794-f18a-4119-82f9-10e935a5a597" absoluteBounds="0.75, 3.25, 2, 2.5401025390624996">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Resource" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30b97204-4491-432e-8993-9ed0bd4a3f50" absoluteBounds="0.765, 3.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d94685fa-a095-4d11-b0ad-086376b67401" absoluteBounds="0.75, 7.375, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60b31399-ddc0-4db9-b806-585fa571fcca" absoluteBounds="0.765, 7.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d4b0e8a2-3d11-46fd-b7fb-7c097ad0d2c4" absoluteBounds="3.5, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_RoleMember" />
+      <nestedChildShapes>
+        <elementListCompartment Id="69bac7ad-2543-4c64-9cc2-bda2d1593ed4" absoluteBounds="3.515, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3c40463-6c63-4fe3-aabd-b63b2c62fe8b" absoluteBounds="12, 8.125, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/SGWDataContext/SGW_StepType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd80e083-2148-4299-8915-89dbe4d1da78" absoluteBounds="12.015, 8.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc0022f1-250c-467d-8cdc-8c1695296cad" absoluteBounds="6.25, 14.5, 2, 2.5401025390624969">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Workflow" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80dc3869-a6a8-44c0-8671-a6fe8d9ce4af" absoluteBounds="6.265, 14.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="06f920db-f620-47e5-a3f4-ba2e091dcdb0" absoluteBounds="9, 14.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowInstance" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70f3fefe-3202-4a51-b120-c808d6c9aaf4" absoluteBounds="9.015, 15.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b30d5040-288c-4065-89f1-cbc34258483b" absoluteBounds="11.75, 15, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowInstanceAssignment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e3f3a5a-daff-40eb-b2df-c06eddae0503" absoluteBounds="11.765, 15.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7e7beaec-08d6-4cf5-acbf-24576d8713a1" absoluteBounds="12, 18.125, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowParticipant" />
+      <nestedChildShapes>
+        <elementListCompartment Id="698c675e-4651-4791-8c66-89e09c847aab" absoluteBounds="12.015, 18.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bed6a59c-b5df-40b5-bdac-391e7f6b7a84" absoluteBounds="14.75, 18.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowParticipantMember" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3557c5c7-65be-4078-a62a-4ee1564c559f" absoluteBounds="14.765, 18.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a27834c3-552e-4528-84af-ea7e0e3f12a1" absoluteBounds="9, 10.25, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowState" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42d1e0dd-dc74-4ff2-b812-c1a84dd7c90f" absoluteBounds="9.015, 10.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ae42fea7-97d8-436d-bf4c-fd037393d2d7" absoluteBounds="11.75, 11.25, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowStateTransition" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2275bcb7-f806-4fde-9272-d9d609667072" absoluteBounds="11.765, 11.71, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e4082e79-4a79-464e-af55-d439b446efe0" absoluteBounds="14.75, 13, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowStep" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f776e5dc-38d7-4934-af2e-33e6c6486236" absoluteBounds="14.765, 13.46, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5cf8f164-5f0d-4999-a3d5-4064f0ade4ad" absoluteBounds="6.25, 18.375, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowStepSplitDecision" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3f45d43e-8bc9-4c1e-8f78-fb9ac0304ee4" absoluteBounds="6.265, 18.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7a33b656-1d0d-4c63-82bb-a76fe3e11ff4" absoluteBounds="17.5, 10.75, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/SGWDataContext/SGW_WorkflowStepTransition" />
+      <nestedChildShapes>
+        <elementListCompartment Id="db56ba8c-698b-450e-be8c-801538ae6493" absoluteBounds="17.515, 11.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94b9cbe3-370e-4e01-b311-5b8581936109" absoluteBounds="0.75, 10.375, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/SGWDataContext/SGW_Workgroup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a15276d1-5b9c-44b9-b528-da6196d7f644" absoluteBounds="0.765, 10.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 22.1074039713542); (4.5 : 24.9623527018229); (6.25 : 24.9623527018229)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Condition/SGW_Condition_SGW_ConditionDetail" />
+      <nodes>
+        <classShapeMoniker Id="a2791212-6696-4f1e-99b7-61742db730f4" />
+        <classShapeMoniker Id="d73464f5-861a-481e-99e6-c8e51c3a205a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 18.0401025390625); (1.75 : 20.7412019856771); (3.5 : 20.7412019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Entity/SGW_Entity_SGW_Condition" />
+      <nodes>
+        <classShapeMoniker Id="2bdc4326-065a-4317-a2f6-80b41f762e13" />
+        <classShapeMoniker Id="a2791212-6696-4f1e-99b7-61742db730f4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 15.5); (1.75 : 13.6354484049479); (3.04166666666667 : 13.6354484049479 : JumpStart); (3.20833333333333 : 13.6354484049479 : JumpEnd); (3.5 : 13.6354484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Entity/SGW_Entity_SGW_EntityField" />
+      <nodes>
+        <classShapeMoniker Id="2bdc4326-065a-4317-a2f6-80b41f762e13" />
+        <classShapeMoniker Id="35a39c15-5056-4d8f-960c-c0d696d203af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 17.5713525390625); (5.79166666666667 : 17.5713525390625 : JumpStart); (5.95833333333333 : 17.5713525390625 : JumpEnd); (7.16666666666667 : 17.5713525390625 : JumpStart); (7.33333333333333 : 17.5713525390625 : JumpEnd); (13.8229166666667 : 17.5713525390625 : JumpStart); (13.9895833333333 : 17.5713525390625 : JumpEnd); (15.6666666666667 : 17.5713525390625 : JumpStart); (15.8333333333333 : 17.5713525390625 : JumpEnd); (18.5 : 17.5713525390625); (18.5 : 16.4728011067708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_EntityInstance/SGW_EntityInstance_SGW_Attachment" />
+      <nodes>
+        <classShapeMoniker Id="b8978102-789a-4f62-9b6b-67896a24baad" />
+        <classShapeMoniker Id="1de41612-5f5c-4792-aac8-c3864172e7e6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 16.5489005533854); (3.5 : 16.5489005533854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Entity/SGW_Entity_SGW_EntityInstance" />
+      <nodes>
+        <classShapeMoniker Id="2bdc4326-065a-4317-a2f6-80b41f762e13" />
+        <classShapeMoniker Id="b8978102-789a-4f62-9b6b-67896a24baad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 15.5015374615385); (3.125 : 15.1265374615385); (3.125 : 11.1642976888021); (3.5 : 11.1642976888021)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Entity/SGW_Entity_SGW_EntityStatus" />
+      <nodes>
+        <classShapeMoniker Id="2bdc4326-065a-4317-a2f6-80b41f762e13" />
+        <classShapeMoniker Id="31eaf402-766b-4205-86c5-cf2270fc20b1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.53929768880208); (3.04166666666667 : 4.53929768880208 : JumpStart); (3.20833333333333 : 4.53929768880208 : JumpEnd); (3.5 : 4.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Resource/SGW_Resource_SGW_WorkgroupMember" />
+      <nodes>
+        <classShapeMoniker Id="0a9ff794-f18a-4119-82f9-10e935a5a597" />
+        <classShapeMoniker Id="41bd20b2-5924-4411-9267-4bf4af9df103" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.25); (1.75 : 1.53929768880208); (3.5 : 1.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Resource/SGW_Resource_SGW_RoleMember" />
+      <nodes>
+        <classShapeMoniker Id="0a9ff794-f18a-4119-82f9-10e935a5a597" />
+        <classShapeMoniker Id="d4b0e8a2-3d11-46fd-b7fb-7c097ad0d2c4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.375); (3.125 : 7); (3.125 : 1.96519853320312); (3.5 : 1.96519853320312)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Role/SGW_Role_SGW_RoleMember" />
+      <nodes>
+        <classShapeMoniker Id="d94685fa-a095-4d11-b0ad-086376b67401" />
+        <classShapeMoniker Id="d4b0e8a2-3d11-46fd-b7fb-7c097ad0d2c4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 17.8502018229167); (5.79166666666667 : 17.8502018229167 : JumpStart); (5.95833333333333 : 17.8502018229167 : JumpEnd); (7.25 : 17.8502018229167); (7.25 : 17.0401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Entity/SGW_Entity_SGW_Workflow" />
+      <nodes>
+        <classShapeMoniker Id="2bdc4326-065a-4317-a2f6-80b41f762e13" />
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 19.375); (5.875 : 19); (5.875 : 15.7700512695312); (6.25 : 15.7700512695312)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Condition/SGW_Condition_SGW_Workflow" />
+      <nodes>
+        <classShapeMoniker Id="a2791212-6696-4f1e-99b7-61742db730f4" />
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 17.2925032552083); (5.79166666666667 : 17.2925032552083 : JumpStart); (5.95833333333333 : 17.2925032552083 : JumpEnd); (7.16666666666667 : 17.2925032552083 : JumpStart); (7.33333333333333 : 17.2925032552083 : JumpEnd); (9 : 17.2925032552083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_EntityInstance/SGW_EntityInstance_SGW_WorkflowInstance" />
+      <nodes>
+        <classShapeMoniker Id="b8978102-789a-4f62-9b6b-67896a24baad" />
+        <classShapeMoniker Id="06f920db-f620-47e5-a3f4-ba2e091dcdb0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 15.8950512695312); (9 : 15.8950512695312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Workflow/SGW_Workflow_SGW_WorkflowInstance" />
+      <nodes>
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+        <classShapeMoniker Id="06f920db-f620-47e5-a3f4-ba2e091dcdb0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 16.0777498372396); (11.75 : 16.0777498372396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowInstance/SGW_WorkflowInstance_SGW_WorkflowInstanceAssignment" />
+      <nodes>
+        <classShapeMoniker Id="06f920db-f620-47e5-a3f4-ba2e091dcdb0" />
+        <classShapeMoniker Id="b30d5040-288c-4065-89f1-cbc34258483b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13 : 20.6651025390625); (13 : 22.8085034179688); (14.75 : 22.8085034179688)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowParticipant/SGW_WorkflowParticipant_SGW_Access" />
+      <nodes>
+        <classShapeMoniker Id="7e7beaec-08d6-4cf5-acbf-24576d8713a1" />
+        <classShapeMoniker Id="2f7dff94-bbe6-4235-b6bf-27a405a9d917" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 19.4815991210938); (14.75 : 19.4815991210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowParticipant/SGW_WorkflowParticipant_SGW_WorkflowParticipantMember" />
+      <nodes>
+        <classShapeMoniker Id="7e7beaec-08d6-4cf5-acbf-24576d8713a1" />
+        <classShapeMoniker Id="bed6a59c-b5df-40b5-bdac-391e7f6b7a84" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.1642976888021); (9 : 11.1642976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_EntityStatus/SGW_EntityStatus_SGW_WorkflowState" />
+      <nodes>
+        <classShapeMoniker Id="31eaf402-766b-4205-86c5-cf2270fc20b1" />
+        <classShapeMoniker Id="a27834c3-552e-4528-84af-ea7e0e3f12a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.25 : 14.5); (7.25 : 12.200754046224); (9 : 12.200754046224)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Workflow/SGW_Workflow_SGW_WorkflowState" />
+      <nodes>
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+        <classShapeMoniker Id="a27834c3-552e-4528-84af-ea7e0e3f12a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 12.2123527018229); (11.75 : 12.2123527018229)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowState/SGW_WorkflowState_SGW_WorkflowStateTransition" />
+      <nodes>
+        <classShapeMoniker Id="a27834c3-552e-4528-84af-ea7e0e3f12a1" />
+        <classShapeMoniker Id="ae42fea7-97d8-436d-bf4c-fd037393d2d7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 11.6686763509115); (11.75 : 11.6686763509115)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowState/SGW_WorkflowState_SGW_WorkflowStateTransition1" />
+      <nodes>
+        <classShapeMoniker Id="a27834c3-552e-4528-84af-ea7e0e3f12a1" />
+        <classShapeMoniker Id="ae42fea7-97d8-436d-bf4c-fd037393d2d7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.7812525 : 14.5); (7.7812525 : 13.6098046875); (11.75 : 13.6098046875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Workflow/SGW_Workflow_SGW_WorkflowStateTransition" />
+      <nodes>
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+        <classShapeMoniker Id="ae42fea7-97d8-436d-bf4c-fd037393d2d7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.75 : 15.2989005533854); (17.5 : 15.2989005533854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowStep/SGW_WorkflowStep_SGW_Attachment" />
+      <nodes>
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+        <classShapeMoniker Id="1de41612-5f5c-4792-aac8-c3864172e7e6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.75 : 14.84375); (13.9895833333333 : 14.84375 : JumpStart); (13.8229166666667 : 14.84375 : JumpEnd); (11 : 14.84375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowStep/SGW_WorkflowStep_SGW_WorkflowInstance" />
+      <nodes>
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+        <classShapeMoniker Id="06f920db-f620-47e5-a3f4-ba2e091dcdb0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 10.8614005533854); (13.8697916666667 : 10.8614005533854 : JumpStart); (14.0364583333333 : 10.8614005533854 : JumpEnd); (15.75 : 10.8614005533854); (15.75 : 13)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowState/SGW_WorkflowState_SGW_WorkflowStep" />
+      <nodes>
+        <classShapeMoniker Id="a27834c3-552e-4528-84af-ea7e0e3f12a1" />
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.90625 : 18.125); (13.90625 : 14.4130744856771); (14.4166666666667 : 14.4130744856771 : JumpStart); (14.5833333333333 : 14.4130744856771 : JumpEnd); (14.75 : 14.4130744856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowParticipant/SGW_WorkflowParticipant_SGW_WorkflowStep" />
+      <nodes>
+        <classShapeMoniker Id="7e7beaec-08d6-4cf5-acbf-24576d8713a1" />
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.953125 : 10.4728011067708); (13.953125 : 14.1977367285156); (14.4166666666667 : 14.1977367285156 : JumpStart); (14.5833333333333 : 14.1977367285156 : JumpEnd); (14.75 : 14.1977367285156)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_StepType/SGW_StepType_SGW_WorkflowStep" />
+      <nodes>
+        <classShapeMoniker Id="e3c40463-6c63-4fe3-aabd-b63b2c62fe8b" />
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 14.59375); (8.66666666666667 : 14.59375 : JumpStart); (8.83333333333333 : 14.59375 : JumpEnd); (13.8229166666667 : 14.59375 : JumpStart); (13.9895833333333 : 14.59375 : JumpEnd); (14.75 : 14.59375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Workflow/SGW_Workflow_SGW_WorkflowStep" />
+      <nodes>
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 18.9719962565104); (11.75 : 18.9719962565104); (11.75 : 17.875); (13.8229166666667 : 17.875 : JumpStart); (13.9895833333333 : 17.875 : JumpEnd); (15.75 : 17.875); (15.75 : 16.8862125651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowStepSplitDecision/SGW_WorkflowStepSplitDecision_SGW_WorkflowStep" />
+      <nodes>
+        <classShapeMoniker Id="5cf8f164-5f0d-4999-a3d5-4064f0ade4ad" />
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 20.8381987421875); (7.25 : 20.8381987421875); (7.25 : 19.5689925130208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Condition/SGW_Condition_SGW_WorkflowStepSplitDecision" />
+      <nodes>
+        <classShapeMoniker Id="a2791212-6696-4f1e-99b7-61742db730f4" />
+        <classShapeMoniker Id="5cf8f164-5f0d-4999-a3d5-4064f0ade4ad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.2812525 : 13); (16.2812525 : 11.8994477766927); (17.5 : 11.8994477766927)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowStep/SGW_WorkflowStep_SGW_WorkflowStepTransition" />
+      <nodes>
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+        <classShapeMoniker Id="7a33b656-1d0d-4c63-82bb-a76fe3e11ff4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.2187475 : 13); (15.2187475 : 12.4497238883464); (15.6666666666667 : 12.4497238883464 : JumpStart); (15.8333333333333 : 12.4497238883464 : JumpEnd); (16.1979191666667 : 12.4497238883464 : JumpStart); (16.3645858333333 : 12.4497238883464 : JumpEnd); (17.5 : 12.4497238883464)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_WorkflowStep/SGW_WorkflowStep_SGW_WorkflowStepTransition1" />
+      <nodes>
+        <classShapeMoniker Id="e4082e79-4a79-464e-af55-d439b446efe0" />
+        <classShapeMoniker Id="7a33b656-1d0d-4c63-82bb-a76fe3e11ff4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 15.2444006347656); (8.75 : 15.2444006347656); (8.75 : 14.5); (13.8229166666667 : 14.5 : JumpStart); (13.9895833333333 : 14.5 : JumpEnd); (14.5 : 14.5); (14.5 : 12.75); (15.1354141666667 : 12.75 : JumpStart); (15.3020808333333 : 12.75 : JumpEnd); (15.6666666666667 : 12.75 : JumpStart); (15.8333333333333 : 12.75 : JumpEnd); (16.1979191666667 : 12.75 : JumpStart); (16.3645858333333 : 12.75 : JumpEnd); (17.25 : 12.75); (17.25 : 13.5401025390625); (18.5 : 13.5401025390625); (18.5 : 13.2901025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Workflow/SGW_Workflow_SGW_WorkflowStepTransition" />
+      <nodes>
+        <classShapeMoniker Id="cc0022f1-250c-467d-8cdc-8c1695296cad" />
+        <classShapeMoniker Id="7a33b656-1d0d-4c63-82bb-a76fe3e11ff4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.4380759230769); (3.3125 : 9.87557592307692); (3.3125 : 4.96519853320313); (3.5 : 4.96519853320313)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SGWDataContext/SGW_Workgroup/SGW_Workgroup_SGW_WorkgroupMember" />
+      <nodes>
+        <classShapeMoniker Id="94b9cbe3-370e-4e01-b311-5b8581936109" />
+        <classShapeMoniker Id="41bd20b2-5924-4411-9267-4bf4af9df103" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

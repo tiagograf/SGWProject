@@ -1,0 +1,57 @@
+﻿@model SGW.Portal.Models.ActionModel
+@{
+    ViewBag.Title = "Etapa Manual";
+}
+
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+</hgroup>
+
+<section id="actionForm">
+<h2>Sistema Gerenciador de Workflows</h2>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Etapa Manual</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.Entity)
+                @Html.TextBoxFor(m => m.Entity, new { @readonly = "true", @class = "readonly" })
+            </li>
+            <li>
+                @Html.LabelFor(m => m.UserDefinedId)
+                @Html.TextBoxFor(m => m.UserDefinedId, new { @readonly = "true", @class = "readonly" })
+            </li>
+            <li>
+                @Html.LabelFor(m => m.Step)
+                @Html.TextBoxFor(m => m.Step, new { @readonly = "true", @class = "readonly" })
+            </li>
+            <li>
+                @Html.LabelFor(m => m.Assignee)
+                @Html.TextBoxFor(m => m.Assignee, new { @readonly = "true", @class = "readonly" })
+            </li>
+            <li class="fullline">
+                @Html.LabelFor(m => m.Description)
+                @Html.TextAreaFor(m => m.Description, new { @readonly = "true", @class = "readonly" })
+            </li>
+            <li class="fullline">
+                @Html.LabelFor(m => m.Action)
+                @Html.DropDownListFor(m => m.Action, (IEnumerable<SelectListItem>)ViewBag.Results)
+                @Html.ValidationMessageFor(m => m.Action)
+            </li>
+            <li class="fullline">
+                <input type="submit" value="Salvar" />
+            </li>
+        </ol>
+        
+    </fieldset>
+
+}
+</section>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,39 @@
+﻿@using SGW.Common;
+
+@{
+    ViewBag.Title = "Configurações";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<section class="contact">
+    <header>
+        <h3>Menu de Configurações</h3>
+    </header>
+    <fieldset>
+        <legend>Workflow</legend>
+        <ol>
+            <li>
+                @Html.ActionLink("Dados do Usuário", "EditResource", "ResourceConfiguration", new { resourceId = SessionData.ResourceId }, null)
+            </li>
+            <li>
+                @Html.ActionLink("Grupos e Cargos","WorkgroupRoleList","ResourceConfiguration")
+            </li>
+            <li>
+                @Html.ActionLink("Workflows","WorkflowList","Workflow")
+            </li>
+            <li>
+                @Html.ActionLink("Configurações Gerais", "SystemConfiguration", "Configuration")
+            </li>
+            <li>
+                @Html.ActionLink("Entidades", "Index", "Entity")
+            </li>
+            <li>
+                @Html.ActionLink("Condições", "ConditionList", "Condition")
+            </li>
+        </ol>       
+    </fieldset>
+</section>

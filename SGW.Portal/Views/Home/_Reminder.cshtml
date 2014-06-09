@@ -1,0 +1,23 @@
+﻿@{
+    IEnumerable<Tuple<string,string,string, string>> actions = ViewBag.ActionRequests;
+
+    <table>
+        <tr class="header">
+            <th>Entidade</th>
+            <th>Identificador</th>
+            <th>Participante</th>
+            <th>Etapas Assinaladas</th>
+            <th>Ação</th>
+        </tr>
+    @foreach (var item in actions)
+    {
+        <tr>
+            <td><strong>@item.Item1</strong></td>
+            <td>@item.Item2</td>
+            <td>@item.Item3</td>
+            <td>@item.Item4</td>
+            <td>@Html.ActionLink("Alterar", "Index", "Action", new { processInstanceId = Guid.NewGuid() }, null)</td>
+        </tr>
+    }
+    </table>
+}
